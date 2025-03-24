@@ -9,7 +9,6 @@ Node-opcua, 2.148.0
 
 ----- DOCUMENTATION -----
 
-Doxygen generated HTML (Open with index.html)
 Test Documentation
 System Documentation
 
