@@ -1,7 +1,3 @@
------ DOCUMENTATION -----
-
-Doxygen generated HTML (Open with index.html)
-
 ----- USER GUIDE -----
 
 Download the files and open a terminal in the main folder. Type "node app.js" and run the simulator.
