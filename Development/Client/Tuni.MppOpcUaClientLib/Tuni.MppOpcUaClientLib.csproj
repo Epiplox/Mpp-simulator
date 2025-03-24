@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <OutputType>Library</OutputType>
+    <ApplicationVersion>1.2.0.0</ApplicationVersion>
+    <GenerateAssemblyInfo>true</GenerateAssemblyInfo>
+    <AssemblyTitle>Tuni.MppOpcUaClientLib</AssemblyTitle>
+    <Product>Tuni.MppOpcUaClientLib</Product>
+    <Copyright>Copyright © 2017-2019 Tampere University</Copyright>
+    <FileVersion>1.2.0.0</FileVersion>
+    <AssemblyVersion>1.2.0.0</AssemblyVersion>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="UnifiedAutomation.UaBase">
+      <HintPath>lib\UnifiedAutomation.UaBase.dll</HintPath>
+    </Reference>
+    <Reference Include="UnifiedAutomation.UaClient">
+      <HintPath>lib\UnifiedAutomation.UaClient.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

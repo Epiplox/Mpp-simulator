@@ -1,0 +1,13 @@
+C:\Users\Eero\Pictures\MppOpcUaClientLib_dll - new\Tuni.MppOpcUaClientLib\obj\Debug\net8.0\Tuni.MppOpcUaClientLib.csproj.AssemblyReference.cache
+C:\Users\Eero\Pictures\MppOpcUaClientLib_dll - new\Tuni.MppOpcUaClientLib\obj\Debug\net8.0\Tuni.MppOpcUaClientLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eero\Pictures\MppOpcUaClientLib_dll - new\Tuni.MppOpcUaClientLib\obj\Debug\net8.0\Tuni.MppOpcUaClientLib.csproj.CoreCompileInputs.cache
+C:\Users\Eero\Pictures\MppOpcUaClientLib_dll - new\Tuni.MppOpcUaClientLib\bin\Debug\net8.0\Tuni.MppOpcUaClientLib.deps.json
+C:\Users\Eero\Pictures\MppOpcUaClientLib_dll - new\Tuni.MppOpcUaClientLib\bin\Debug\net8.0\Tuni.MppOpcUaClientLib.dll
+C:\Users\Eero\Pictures\MppOpcUaClientLib_dll - new\Tuni.MppOpcUaClientLib\bin\Debug\net8.0\Tuni.MppOpcUaClientLib.pdb
+C:\Users\Eero\Pictures\MppOpcUaClientLib_dll - new\Tuni.MppOpcUaClientLib\bin\Debug\net8.0\UnifiedAutomation.UaBase.dll
+C:\Users\Eero\Pictures\MppOpcUaClientLib_dll - new\Tuni.MppOpcUaClientLib\bin\Debug\net8.0\UnifiedAutomation.UaClient.dll
+C:\Users\Eero\Pictures\MppOpcUaClientLib_dll - new\Tuni.MppOpcUaClientLib\obj\Debug\net8.0\Tuni.Mpp.5C1CA181.Up2Date
+C:\Users\Eero\Pictures\MppOpcUaClientLib_dll - new\Tuni.MppOpcUaClientLib\obj\Debug\net8.0\Tuni.MppOpcUaClientLib.dll
+C:\Users\Eero\Pictures\MppOpcUaClientLib_dll - new\Tuni.MppOpcUaClientLib\obj\Debug\net8.0\refint\Tuni.MppOpcUaClientLib.dll
+C:\Users\Eero\Pictures\MppOpcUaClientLib_dll - new\Tuni.MppOpcUaClientLib\obj\Debug\net8.0\Tuni.MppOpcUaClientLib.pdb
+C:\Users\Eero\Pictures\MppOpcUaClientLib_dll - new\Tuni.MppOpcUaClientLib\obj\Debug\net8.0\ref\Tuni.MppOpcUaClientLib.dll
