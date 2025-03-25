@@ -1,7 +1,7 @@
 ----- VERSIONS -----
 
 VSCode, 1.98.2
-Node.js, 27.9.0
+Node.js, 22.14.0
 Express, 4.21.2
 Express-sse, 0.5.3
 Jest, 29.7.0
